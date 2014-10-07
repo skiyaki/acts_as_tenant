@@ -1,5 +1,6 @@
 Acts As Tenant
 ==============
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/skiyaki/acts_as_tenant?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 [![Build Status](https://travis-ci.org/ErwinM/acts_as_tenant.png)](https://travis-ci.org/ErwinM/acts_as_tenant)
 
